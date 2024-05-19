@@ -10,6 +10,7 @@
  name | age
 |------|----|
  mazed | 23
+ 
 _the procces of adding image_
 
  ![image not found](/image/backg.JPG)
