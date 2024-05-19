@@ -1,4 +1,4 @@
-## hello 
+## just for practice git hub readme.md fil
 **this is my personal file don't copy this**
  
  - mazed
@@ -10,6 +10,6 @@
  name | age
 |------|----|
  mazed | 23
-the procces of adding image
+_the procces of adding image_
 
  ![image not found](/image/backg.JPG)
